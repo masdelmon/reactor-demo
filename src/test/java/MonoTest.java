@@ -4,7 +4,7 @@ import reactor.core.publisher.Mono;
 public class MonoTest {
     @Test
     void firstMono() {
-        Mono.just("A");
+        Mono.just("B");
     }
 
     @Test
